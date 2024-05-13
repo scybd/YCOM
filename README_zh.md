@@ -11,7 +11,9 @@
   - **main.py**: 主界面线程代码
   - **serial_thread.py**: 串口线程代码
 - 安装: 
+  - 下载**.deb**文件后在输入: `sudo dpkg -i ycom-*.*.*.deb`
 - 卸载:
+  - `sudo dpkg -r ycom`
 
 ## 待完成
 - 波形图显示

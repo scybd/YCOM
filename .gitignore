@@ -1,9 +1,11 @@
 build/
 dist/
 package/
+.idea/
+__pycache__/
 /.fpm
 /package.sh
-/ycom.deb
+*.deb
 /YCOM.desktop
 /YCOM.spec
 *.jpg

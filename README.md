@@ -11,7 +11,9 @@
   - **main.py**: Code for the main interface thread.
   - **serial_thread.py**: Code for serial port threads.
 - Install
+  - After downloading the file, enter: `sudo dpkg -i ycom-*.*.*.deb`
 - Uninstall
+  - `sudo dpkg -r ycom`
 
 ## TODO
 - Waveform display
