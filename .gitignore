@@ -1,0 +1,9 @@
+build/
+dist/
+package/
+/.fpm
+/package.sh
+/ycom.deb
+/YCOM.desktop
+/YCOM.spec
+*.jpg
